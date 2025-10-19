@@ -23,6 +23,7 @@ dependencies = [
     "transformers>=4.57.1",
     "trl>=0.24.0",
     "vllm==0.10.0",
+    "wandb>=0.22.2",
 ]
 
 [project.scripts]
