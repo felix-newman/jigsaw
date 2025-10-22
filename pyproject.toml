@@ -22,6 +22,8 @@ dependencies = [
     "tqdm>=4.67.1",
     "transformers>=4.57.1",
     "trl>=0.24.0",
+    "unsloth>=2025.7.2",
+    "unsloth-zoo>=2025.7.4",
     "vllm==0.10.0",
     "wandb>=0.22.2",
 ]

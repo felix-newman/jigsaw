@@ -11,3 +11,5 @@ wheels/
 model/
 .env
 notebooks/wandb/
+notebooks/outputs/
+notebooks/unsloth_compiled_cache/
